@@ -4,3 +4,4 @@ pandas
 st-gsheets-connection
 Pillow
 requests
+extra-streamlit-components
